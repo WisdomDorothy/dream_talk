@@ -57,7 +57,7 @@
 #login-form a {
   /*BEM 방식으로 id 안 쓰면 : .login-form__a*/
   text-align: center;
-  text-decoration: none;
+  text-janoration: none;
   color: inherit; /*부모요소와 동일한*/
   font-size: 13px;
 }
