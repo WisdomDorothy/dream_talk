@@ -130,5 +130,5 @@ input:focus {
 a {
   /*모든 링크는*/
   color: inherit; /*부모요소로 지정*/
-  text-janoration: none;
+  text-decoration: none;
 }
